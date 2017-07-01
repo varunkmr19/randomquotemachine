@@ -1,0 +1,15 @@
+#quoteConatiner {
+	border-radius: 6px;
+	margin-top: 10%;
+	padding: 5% 2% 3% 2%;
+	
+
+
+}
+.footer {
+	padding-top: 2%;
+}
+#quote, #author{
+	font-size: 30px;
+	font-family: 'Sail', cursive;
+}
